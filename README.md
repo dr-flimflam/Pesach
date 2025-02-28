@@ -1,5 +1,5 @@
 # Pesach
-a lua module that checks if it is currently pesach (passover)
+a Lua module that checks if it is currently Pesach (Passover)
 
 ```
 pesach = require("pesach")
